@@ -1,10 +1,10 @@
 ## Hello there 👨🏻‍🦰
 
-- 💻 2nd Year Software Engineering student at Victoria Univeristy of Wellington
+- 💻 3nd Year Software Engineering student at Victoria Univeristy of Wellington
 - 🤖 Interested in Artificial Intelligence
 - 🚀 Best with Object Oriented programming: Java, C++
-- 🍎 Tutor of Computer Science and Engineering Technology
-- 📚 Working on a Study application for IOS using Swift
+- 🍎 Tutor of Computer Science and Software Engineering
+- 📚 Working on a Brick construction Application with Machine Learning
 
 <!--
 **Christian-RL/Christian-RL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
