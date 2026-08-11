@@ -1,6 +1,6 @@
 ## Hello there 👨🏻‍🦰
 
-- 💻 3nd Year Software Engineering student at Victoria Univeristy of Wellington
+- 💻 3rd Year Software Engineering student at Victoria Univeristy of Wellington
 - 🤖 Interested in Artificial Intelligence
 - 🚀 Best with Object Oriented programming: Java, C#
 - 🍎 Tutor of Computer Science
